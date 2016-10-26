@@ -1,0 +1,26 @@
+﻿.REXIcon
+{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    background-color: #612850;
+    font-size: 38px;
+    font-family: 'Century Gothic';
+    font-weight: bold;
+    cursor: pointer;
+    filter: blur(0px)!important;
+}
+.REXView
+{
+    position: fixed;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+    opacity: 0.5;
+    background-color: #282828;
+}
